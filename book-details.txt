@@ -1,0 +1,3 @@
+Title: 
+Author: Learning JavaScript Design Patterns
+Publisher: Addy Osmani
